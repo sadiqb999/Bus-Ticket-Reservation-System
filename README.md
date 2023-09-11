@@ -7,6 +7,6 @@ password: Password@123
 
 For passenger,
 
-mail: admin@gmail.com
+mail: messi@gmail.com
 
-password: Password@123
+password: 123
